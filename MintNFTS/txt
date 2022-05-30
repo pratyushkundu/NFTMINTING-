@@ -1,0 +1,4 @@
+CLIENT_URL="https://rinkeby.infura.io/v3/1a31742a12b24c3a8bbb40b3ddde1c3d" --rinkeyby test
+CONTRACT_ADDRESS="0xc9bf24d368400ecdf4337b36e818bf9094d7da9b"---rinkeby
+CONTRACT_ADDRESS=" 0xd338e5dA894Abac29D76e5CE8b505de7AD674fc7"---polygon testnet
+CLIENT_URL="https://polygon-mumbai.g.alchemy.com/v2/wcn13ywOuw_jTghyN_djrmmjjQt4l-Jv"
